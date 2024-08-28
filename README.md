@@ -22,3 +22,4 @@
   - k-means cluster analysis
 ### Created a Tableau storyboard detailing my linear regression and cluster analyses 
 - Included 6 pages in the storyboard highlighting EDA, linear regression, cluster analysis and findings, and future steps.
+- Link to storyboard: https://public.tableau.com/shared/W6NDMS36T?:display_count=n&:origin=viz_share_link 
