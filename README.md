@@ -16,7 +16,7 @@
   - Created new flags to assist with analysis
   - Created summary columns of descriptive statistics using the groupby() function
 - Used data visualization in Python
-  - Created histograms, bar charts, line charts, and scatterplots to visualized customer behavior and sales trends
+  - Created histograms, bar charts, line charts, and scatterplots 
 - Utilized basic machine learning techniques to tease out the variables having the biggest effect on crime
   - Linear regression
   - k-means cluster analysis
